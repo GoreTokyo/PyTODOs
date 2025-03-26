@@ -19,11 +19,10 @@ PyTODOsは、PythonとFlaskを用いて作成したシンプルなTo-Doリスト
 ## 実行方法
 以下のコマンドを実行すると、ローカル環境でアプリを起動できます。
 
-```bash
-git clone https://github.com/GoreTokyo/PyTODOs.git
-cd PyTODOs
-pip install -r requirements.txt
-python app.py
+- git clone https://github.com/GoreTokyo/PyTODOs.git
+- cd PyTODOs
+- pip install -r requirements.txt
+- python app.py
 
 ## ライセンス
 MITライセンスで公開されています。詳細は`LICENSE`ファイルを参照してください。

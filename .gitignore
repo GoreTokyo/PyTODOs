@@ -1,0 +1,12 @@
+
+venv/
+.venv/
+.env/
+
+*.pyc
+__pycache__/
+
+.vscode/
+.idea/
+
+todos.db
